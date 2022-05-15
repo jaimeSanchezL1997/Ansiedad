@@ -12,9 +12,16 @@
     </h2>
     <h6>Intrucciones</h6>
     <p>1-utiliza la barra espaciadora para moverte entre imagenes<br>
-       2-Puedes tomarte el tiempo necesario para ver cada imagen.
-       3-Disfruta el jeugo. 
-    </p>
-   <p>Para iniciar el juego de  <a href="imgenes.html">click aqui</a></p>
+       2-Puedes tomarte el tiempo necesario para ver cada imagen.<br>
+       3-Disfruta el juego. 
+    </p><br>
+  
+    <form >
+        <lable>Nickname</label>
+        <input name="nickname" placeholder="Nickname" /> 
+        <label>Genero</label>
+        <input name="Genero"placeholder="Genero"/>
+        <button type="submmit">Empezar el juego </button>
+    </form>
 </body>
 </html>
